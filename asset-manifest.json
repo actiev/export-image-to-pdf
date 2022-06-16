@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/export-image-to-pdf/static/css/main.c42d0166.css",
+    "main.js": "/export-image-to-pdf/static/js/main.a4576a39.js",
+    "static/js/498.a16f5e05.chunk.js": "/export-image-to-pdf/static/js/498.a16f5e05.chunk.js",
+    "static/js/703.3f0f53f9.chunk.js": "/export-image-to-pdf/static/js/703.3f0f53f9.chunk.js",
+    "static/js/560.eb5b148b.chunk.js": "/export-image-to-pdf/static/js/560.eb5b148b.chunk.js",
+    "static/js/787.afc03ebe.chunk.js": "/export-image-to-pdf/static/js/787.afc03ebe.chunk.js",
+    "index.html": "/export-image-to-pdf/index.html",
+    "main.c42d0166.css.map": "/export-image-to-pdf/static/css/main.c42d0166.css.map",
+    "main.a4576a39.js.map": "/export-image-to-pdf/static/js/main.a4576a39.js.map",
+    "498.a16f5e05.chunk.js.map": "/export-image-to-pdf/static/js/498.a16f5e05.chunk.js.map",
+    "703.3f0f53f9.chunk.js.map": "/export-image-to-pdf/static/js/703.3f0f53f9.chunk.js.map",
+    "560.eb5b148b.chunk.js.map": "/export-image-to-pdf/static/js/560.eb5b148b.chunk.js.map",
+    "787.afc03ebe.chunk.js.map": "/export-image-to-pdf/static/js/787.afc03ebe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42d0166.css",
+    "static/js/main.a4576a39.js"
+  ]
+}
