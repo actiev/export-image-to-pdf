@@ -1,8 +1,9 @@
-import { render, screen } from '@testing-library/react';
-import App from './App';
+import { render, screen } from "@testing-library/react";
+import { Button } from "./components/Button";
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+test("Button visibility", () => {
+  render(<Button text="Hello" />);
+  const button = screen.getByText(/Hello/i);
+  expect(button).toBeVisible();
+  expect(button).toHaveClass("button");
 });
